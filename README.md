@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Jamilton Bento 😁
+## Bem-vindo(a) ao perfil do Dev Jamilton Bento 💻👨‍💻
 
  <div>
    <a href="https://github.com/Jamilton-Bento">
